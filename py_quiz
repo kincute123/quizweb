@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "question": "Phương thức để thêm phần tử vào danh sách là gì?",
+    "options": {
+      "A": "add()",
+      "B": "append()",
+      "C": "insert()",
+      "D": "push()"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 2,
+    "question": "Kiểu dữ liệu nào sau đây không phải kiểu dữ liệu cơ bản trong Python?",
+    "options": {
+      "A": "int",
+      "B": "float",
+      "C": "char",
+      "D": "str"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 3,
+    "question": "Từ khóa nào dùng để thoát khỏi vòng lặp?",
+    "options": {
+      "A": "exit",
+      "B": "stop",
+      "C": "break",
+      "D": "return"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 4,
+    "question": "Từ khóa nào dùng để định nghĩa hàm?",
+    "options": {
+      "A": "function",
+      "B": "def",
+      "C": "func",
+      "D": "define"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 5,
+    "question": "Phương thức nào dùng để lấy độ dài của một chuỗi?",
+    "options": {
+      "A": "length()",
+      "B": "size()",
+      "C": "len()",
+      "D": "count()"
+    },
+    "correct": "C"
+  }
+]
